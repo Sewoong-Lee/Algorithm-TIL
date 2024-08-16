@@ -1,4 +1,4 @@
-#게임을 만든 동준이N = int(input())
+#게임을 만든 동준이
 N = int(input())
 levels = []
 for _ in range(N):
